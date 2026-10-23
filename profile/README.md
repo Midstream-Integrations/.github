@@ -31,4 +31,4 @@ Every app stands alone, uses the `MID` prefix and has its own object ID range, s
 ## Need help?
 
 We install, adapt and support these apps, host the Card Statement OCR server, and build new extensions for your process.
-**[Book a 20-minute call](https://midstreamintegrations.com/book)** · intro@MidstreamIntegrations.com · [MidstreamIntegrations.com](https://www.MidstreamIntegrations.com)
+**[Book a 20-minute call](https://midstreamintegrations.com/contact)** · intro@MidstreamIntegrations.com · [MidstreamIntegrations.com](https://www.MidstreamIntegrations.com)

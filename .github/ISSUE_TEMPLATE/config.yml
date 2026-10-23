@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Paid help - installation, customization, hosting
-    url: https://midstreamintegrations.com/book
+    url: https://midstreamintegrations.com/contact
     about: Book a call with Midstream Integrations
   - name: Security problem
     url: https://github.com/Midstream-Integrations/.github/blob/main/SECURITY.md
